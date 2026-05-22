@@ -1,0 +1,6 @@
+2026-05-22 17:59:19,010 - INFO - Starting AWS ETL Pipeline
+2026-05-22 17:59:19,013 - INFO - Ingestion completed
+2026-05-22 17:59:19,019 - INFO - Transformation completed
+2026-05-22 17:59:19,026 - INFO - Validation completed
+2026-05-22 17:59:19,028 - INFO - Loading completed
+2026-05-22 17:59:19,028 - INFO - AWS ETL Pipeline completed successfully
